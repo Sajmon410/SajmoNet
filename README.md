@@ -2,6 +2,7 @@
 SocailNetwork in JavaScript (using mockapi)
 Drustvena mreza koja se sastoji pocetne strane gde se loguje/registruje kao i strane na kojoj su objave
 ![ss1](https://user-images.githubusercontent.com/120813343/213603308-4fe35f67-5f7c-46b3-b650-b18157ae6434.PNG)
+![ss1_1](https://user-images.githubusercontent.com/120813343/213603799-b7a74ecd-6552-4103-9004-2a84f0d04370.PNG)
 Na stranici gde su objave moguce je objavljivanje postova, lajkovanje i komentarisanje sa ulogovanog naloga
 ![ss2](https://user-images.githubusercontent.com/120813343/213603441-165fea5c-819d-473d-ad67-39af0a27597a.PNG)
 Moguca je promena mejla ili korisnickog imena, kao i brisanje ranije postavljenih objava kao i brisanje samog profila
